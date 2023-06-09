@@ -18,4 +18,3 @@ print(hasilModulus)
 
 hasilPemangkatan = a ^ b
 print(hasilPemangkatan)
-
