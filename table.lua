@@ -1,3 +1,6 @@
+table[1] = "Hallo"
+table["satu"] = 1
+
 tableKosong = {}
 
 tableArray = {"Ayam", "Gajah", "Sapi", "Kambing"}
